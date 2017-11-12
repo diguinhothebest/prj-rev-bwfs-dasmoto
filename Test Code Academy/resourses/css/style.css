@@ -1,0 +1,43 @@
+*{
+  font-family: Helvetica;
+}
+#store{
+  background-image: url(../pattern.jpeg);
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align:center;
+  background-image: url(/Users/Reis/Desktop/Test Code Academy/resourses/pattern.jpeg);
+
+}
+body{
+  background-image: none;
+}
+
+
+.brushes{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.frames{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+.paint{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+.price{
+  color:blue;
+  font-weight: bold;
+}
